@@ -9,8 +9,8 @@ Next is the interpretation of the data. Processing of the data involves few basi
 
 Next is the visualization of the data through plots.
 
-Top 15 Authors with highest number of Books Published
-Author who published more than five books
-15 Books with highest user ratings
-Sorted Books according to user rating
-Top 10 Authors with highest reviews
+1. Top 15 Authors with highest number of Books Published
+2. Author who published more than five books
+3. 15 Books with highest user ratings
+4. Sorted Books according to user rating
+5. Top 10 Authors with highest reviews
