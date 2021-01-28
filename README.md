@@ -14,3 +14,7 @@ Next is the visualization of the data through plots.
 3. 15 Books with highest user ratings
 4. Sorted Books according to user rating
 5. Top 10 Authors with highest reviews
+6. Sorted Books according to reviews
+7. Top 15 Books with highest number of Reviews
+8. Top 15 Fiction Books with highest number of Reviews
+9. Top 15 Non Fiction Books with highest number of Reviews
