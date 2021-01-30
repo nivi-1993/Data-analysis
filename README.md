@@ -21,3 +21,6 @@ Next is the visualization of the data through plots.
 10. Sorted Books according to Price
 11. Top 15 Books with highest price
 12. Sorted Books according to year
+13. Number of books over Year by Genre
+14. Price, Reviews, and User Rating over Year by Genre
+15. Heatmap (correlation among features)
