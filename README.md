@@ -18,3 +18,6 @@ Next is the visualization of the data through plots.
 7. Top 15 Books with highest number of Reviews
 8. Top 15 Fiction Books with highest number of Reviews
 9. Top 15 Non Fiction Books with highest number of Reviews
+10. Sorted Books according to Price
+11. Top 15 Books with highest price
+12. Sorted Books according to year
